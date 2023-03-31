@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Send SMS  With Twilio.props" />
+</Project>

@@ -1,0 +1,39 @@
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\appsettings.Development.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\appsettings.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Send SMS  With Twilio.exe
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Send SMS  With Twilio.deps.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Send SMS  With Twilio.runtimeconfig.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Send SMS  With Twilio.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Send SMS  With Twilio.pdb
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.csproj.AssemblyReference.cache
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.AssemblyInfoInputs.cache
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.AssemblyInfo.cs
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.csproj.CoreCompileInputs.cache
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.MvcApplicationPartsAssemblyInfo.cs
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.MvcApplicationPartsAssemblyInfo.cache
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets\msbuild.Send SMS  With Twilio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets\msbuild.build.Send SMS  With Twilio.props
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Send SMS  With Twilio.props
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Send SMS  With Twilio.props
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\scopedcss\bundle\Send SMS  With Twilio.styles.css
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.csproj.CopyComplete
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\refint\Send SMS  With Twilio.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.pdb
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\Send SMS  With Twilio.genruntimeconfig.cache
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\obj\Debug\net6.0\ref\Send SMS  With Twilio.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git_Projects\Send-SMS-In-.Net-6-Core-With-Twilio\Send SMS  With Twilio\Send SMS  With Twilio\bin\Debug\net6.0\Twilio.dll
